@@ -5,4 +5,4 @@ so that that viewer can understand our thought process.
 
 Link to the EDA Notebook: [EDA Notebook](Absenteeism-EDA.ipynb)
 
-Link to the report our team submitted: [Report]('Cascade Cup R3 (Third Degree Burn).pdf')
+Link to the report our team submitted: [Report](Cascade Cup R3 (Third Degree Burn).pdf)

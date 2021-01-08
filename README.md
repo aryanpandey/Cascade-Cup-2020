@@ -4,4 +4,4 @@
 
 ## Solutions
 - [Solution for Round 2](Round-2/)
-- [Solution for Round 3](Round-3/)
+- [Solution for Finals - Round 3](Round-3/)
